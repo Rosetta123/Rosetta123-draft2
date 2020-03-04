@@ -4,7 +4,7 @@
 
 ### Soybeans
 [I am Bean](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-02-12 at 7.01.33 PM.png?raw=true"/>
 
 ---
 [Stat 385](/pdf/sample_presentation.pdf)
